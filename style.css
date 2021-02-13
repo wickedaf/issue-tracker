@@ -13,3 +13,8 @@
 #total-issue{
     background-color: #303F9F;
 }
+
+footer p{
+    font-weight: 600;
+    font-size: 2rem;
+}
