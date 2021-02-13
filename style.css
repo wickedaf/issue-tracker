@@ -1,0 +1,15 @@
+.issue-circle{
+    border-radius: 50%;
+    height: 50px;
+    padding: 6px 15px;
+    width: 50px;
+    color: white;
+    display: inline-block;
+}
+
+#issue-remain{
+    background-color: #D32F2F;
+}
+#total-issue{
+    background-color: #303F9F;
+}
